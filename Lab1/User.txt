@@ -1,0 +1,10 @@
+Emily Smith 17 65 160 104
+William Johnson 18 66 170 105
+Sofia Williams 19 69 171 106
+James Jones 20 70 164 107
+Charlotte Brown 21 72 166 108
+Benjamin Davis 22 74 169 109
+Amelia Garcia 23 76 172 110
+Henry Rodriguez 24 78 174 111
+Olivia Martinez 25 80 176 112
+Alexander Miller 26 79 178 113

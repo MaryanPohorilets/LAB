@@ -1,0 +1,10 @@
+220 2.5 7.7 Toyota 2019 Camry Black
+312 5 6.2 Ford 2015 Mustang Blue
+306 3 6.5 BMW 2018 X5 Green
+142 1.8 9.1 Honda 2012 Civic White
+612 4 3.5 Mercedes 2017 S-Class Blue
+490 6.2 3.8 Chevrolet 2020 Corvette Green
+249 2 5.7 Audi 2019 A4 Black
+284 3.6 8.1 Jeep 2010 Wrangler Blue
+175 2.5 10.2 Nissan 2009 Altima Green
+480 3 3.5 Porsche 2018 911 Black
