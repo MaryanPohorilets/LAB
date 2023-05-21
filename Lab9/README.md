@@ -5,7 +5,7 @@ This project involves the following tasks:
 
 1. Determine the current in the conductor according to Ohm's law:
 
-![Task1](https://github.com/MaryanPohorilets/LAB/blob/main/Lab9/images/Task1.1.jpg)
+![Task1](https://github.com/MaryanPohorilets/LAB/blob/main/Lab9/images/Task1.1.png)
 
 # Requirements
 To run this project, your computer must have:
